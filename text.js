@@ -4,7 +4,7 @@ const defaultFont = require( './font' )
 
 module.exports = ( str, f, o ) => {  
   const font = f || defaultFont
-  const options = Object.assign( {}, defaultOptions, options )
+  const options = Object.assign( {}, defaultOptions, o )
 
   const lineHeight = ( ( ( font.emSize + 1 ) * 2 ) - 1 ) * options.stroke * options.vscale
   
