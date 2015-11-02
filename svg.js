@@ -5,7 +5,7 @@ const height = options.size.height / options.vscale
 const stroke = options.stroke
 
 const pathsToSvg = paths =>  
-  `<svg width="100%" height="auto" viewBox="0 0 ${ width } ${ height }" xmlns="http://www.w3.org/2000/svg">\n${
+  `<svg width="100%" viewBox="0 0 ${ width } ${ height }" xmlns="http://www.w3.org/2000/svg">\n${
     paths.map( pathToSvg ).join( '\n' )
   }\n</svg>`
 
