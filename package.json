@@ -1,0 +1,36 @@
+{
+  "name": "hrm-draw",
+  "version": "1.0.0",
+  "description": "A library for manipulating Human Resource Machine labels and comments",
+  "main": "hrm-draw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nrkn/hrm-draw.git"
+  },
+  "keywords": [
+    "human",
+    "resource",
+    "machine",
+    "hrm",
+    "draw",
+    "drawing",
+    "label",
+    "comment"
+  ],
+  "author": "Nik Coughlin <nrkn.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nrkn/hrm-draw/issues"
+  },
+  "homepage": "https://github.com/nrkn/hrm-draw#readme",
+  "dependencies": {
+    "hrm-image-decoder": "^0.1.1",
+    "hrm-image-encoder": "^0.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
