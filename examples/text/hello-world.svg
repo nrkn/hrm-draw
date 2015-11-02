@@ -1,0 +1,17 @@
+<svg width="100%" height="auto" viewBox="0 0 65535 21845" xmlns="http://www.w3.org/2000/svg">
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 960 960 L 960 6720 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 5280 960 L 5280 6720 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 960 3840 L 5280 3840 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 11040 960 L 8160 960 L 8160 6720 L 11040 6720 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 8160 3840 L 11040 3840 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 13920 960 L 13920 6720 L 16800 6720 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 19680 960 L 19680 6720 L 22560 6720 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 25440 2400 L 25440 5280 L 26880 6720 L 28320 6720 L 29760 5280 L 29760 2400 L 28320 960 L 26880 960 L 25440 2400 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 960 10560 L 3120 16320 L 5280 10560 L 7440 16320 L 9600 10560 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 12480 12000 L 12480 14880 L 13920 16320 L 15360 16320 L 16800 14880 L 16800 12000 L 15360 10560 L 13920 10560 L 12480 12000 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 19680 16320 L 19680 10560 L 22560 10560 L 24000 12000 L 22560 13440 L 21120 13440 L 24000 16320 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 26880 10560 L 26880 16320 L 29760 16320 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 32640 10560 L 35520 10560 L 36960 12000 L 36960 14880 L 35520 16320 L 32640 16320 L 32640 10560 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 39840 10560 L 39840 13440 l 0 0" />
+  <path fill="transparent" stroke="black" stroke-width="1920" stroke-linecap="round" stroke-linejoin="round" d="M 39840 16320 l 0 0" />
+</svg>
