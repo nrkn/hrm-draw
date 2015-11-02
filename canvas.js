@@ -100,7 +100,7 @@ const inRange = paths => {
 }
 
 const ensureValid = p => {
-  const filtered = p.filter( path => path.length > 0 )
+  var filtered = p.filter( path => path.length > 0 )
   
   var count = countPoints( filtered )
   
