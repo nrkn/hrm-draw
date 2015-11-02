@@ -80,6 +80,8 @@ const removeLast = p => {
     
     path.pop()
   }
+  
+  return paths
 }
 
 const inRange = paths => {
