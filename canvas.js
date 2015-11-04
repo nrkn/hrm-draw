@@ -125,7 +125,7 @@ const ensureValid = p => {
     height <= options.viewSize.height
 
   if( inRange( paths.value() ) && inViewport ) 
-    return paths( filtered ).floor().value()
+    return paths.floor().value()
   
   const translated = paths.offset( [ -leftMost, -topMost ] )
   
