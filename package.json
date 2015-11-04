@@ -1,6 +1,6 @@
 {
   "name": "hrm-draw",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "A library for manipulating Human Resource Machine labels and comments",
   "main": "hrm-draw.js",
   "scripts": {
